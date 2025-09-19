@@ -14,8 +14,8 @@ Durante as duas primeiras semanas de setembro, tivemos aulas com a Jaqueline de 
 3. Uso de branches
     Na segunda semana, aprendemos a criar, manipular e até deletar branches.
 
-    Também aprendemos as diferenças entre:
-    Clone vs. Fork
+    Também aprendemos as diferenças entre: </br>
+    Clone vs. Fork </br>
     Rebase vs. Merge
 
 4. Boas práticas
