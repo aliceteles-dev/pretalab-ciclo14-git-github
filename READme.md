@@ -1,4 +1,4 @@
-### Ciclo 14 - Aulas de Git e GitHub
+# Ciclo 14 - Aulas de Git e GitHub
 
 Durante as duas primeiras semanas de setembro, tivemos aulas com a Jaqueline de Almeida, que nos ensinou usos avançados de GitHub.
 
@@ -27,7 +27,8 @@ Durante as duas primeiras semanas de setembro, tivemos aulas com a Jaqueline de 
 
 
 
-<ul>## Alguns comandos:
+## Alguns comandos:
+<ul>
 <li>git init -> inicializa localmente um repositório git em determinado diretório</li>
 <li>git status -> mostra o status dos arquivos do repositório</li>
 <li>git add nome-do-arquivo -> muda o status do arquivo em questão de unstaged para staged</li>
