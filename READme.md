@@ -8,21 +8,21 @@ Durante as duas primeiras semanas de setembro, tivemos aulas com a Jaqueline de 
     Commited - já adicionado e commitado, pronto para subir no repositório remoto.
 
 
-2. Segurança no uso do Git e GitHub
+2. Segurança no uso do Git e GitHub</br>
     Criação de chaves SSH
 
-3. Uso de branches
+3. Uso de branches</br>
     Na segunda semana, aprendemos a criar, manipular e até deletar branches.
 
     Também aprendemos as diferenças entre: </br>
     Clone vs. Fork </br>
     Rebase vs. Merge
 
-4. Boas práticas
-    .gitignore
-    git stash
-    Importância do READme - fundamental para uma boa comunicação e para trabalhar em equipe.
-    Tags de versões - mais usado em caso de desenvolvimento de software, durante o processo de atualizações.
+4. Boas práticas</br>
+    .gitignore</br>
+    git stash</br>
+    Importância do READme - fundamental para uma boa comunicação e para trabalhar em equipe.</br>
+    Tags de versões - mais usado em caso de desenvolvimento de software, durante o processo de atualizações.</br>
     Alias - o próprio dev pode criar atalhos dentro de um repositório ou globalmente no seu perfil para acelerar o ritmo de trabalho, abreviando comandos maiores em poucas letras.
 
 
