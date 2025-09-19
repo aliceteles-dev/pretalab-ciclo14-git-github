@@ -3,8 +3,8 @@
 Durante as duas primeiras semanas de setembro, tivemos aulas com a Jaqueline de Almeida, que nos ensinou usos avançados de GitHub.
 
 1. Ciclo de vida dos arquivos:
-    Untracked -  quando ainda não foi inicializado no git
-    Unstaged - já foi inicializado, mas ainda não adicionado e commitado
+    Untracked -  quando ainda não foi inicializado no git </br>
+    Unstaged - já foi inicializado, mas ainda não adicionado e commitado</br>
     Commited - já adicionado e commitado, pronto para subir no repositório remoto.
 
 
