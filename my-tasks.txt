@@ -1,0 +1,4 @@
+Tarefas diárias:
+
+Estudos sobre git e git hub, do básico ao avançado.
+Exercícios práticos diários durante as aulas.
